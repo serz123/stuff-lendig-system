@@ -2,6 +2,11 @@
 
 The **Stuff Lending System** is a console application built with Java and Gradle using object-oriented principles. This system allows members to lend their belongings in exchange for credits, which can be used to borrow items from others. The application also tracks the location of items at any given time.
 
+## Technologies Used
+
+- ![Java](https://img.shields.io/badge/Java-11-blue) [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- ![Gradle](https://img.shields.io/badge/Gradle-6.8.3-green) [Gradle](https://gradle.org/)
+
 ## Features
 
 ### Primary Actors
