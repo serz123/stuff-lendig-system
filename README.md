@@ -69,12 +69,9 @@ The **Stuff Lending System** is a console application built with Java and Gradle
 ## Building
 
 The build must pass by running the following console command:
-```bash
+```
 ./gradlew build
-
-## Building
-The build must pass by running console command:  
-`./gradlew build`  
+```
 Note that you should get a report over the quality like:
 ```
 CodeQualityTests > codeQuality() STANDARD_OUT
@@ -90,8 +87,9 @@ CodeQualityTests > codeQuality() STANDARD_OUT
 
 ## Running
 The application should start by running console command:  
+```
 `./gradlew run -q --console=plain`
-
+```
 
 ### License
 This project is licensed under the MIT License
